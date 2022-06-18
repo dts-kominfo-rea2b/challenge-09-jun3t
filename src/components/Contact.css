@@ -1,0 +1,27 @@
+.container-content-dua {
+    width: 40%;
+    margin: 10px 200px 10px 200px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 8%;
+    padding: 10px 0;
+    height: 150px;
+    background-color: rgba(194,236,235,255);
+}
+.container-content-dua .about-label {
+    width: 30%;
+    padding: 10px 0 0 0;
+    font-size: 30px;
+
+}
+.container-content-dua .about-isi {
+    width: 70%;
+    padding: 10px 0 0 0;
+    font-size: 18px;
+}
+
+.img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
